@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="58368918c39f56101ad65375e401310e" label="Refund Category" max_length="40" name="x_1593177_reembo_0_refund_category" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Group" max_length="32" name="group" reference="sys_user_group" type="reference"/>
+        <index name="index">
+            <element name="group"/>
+        </index>
+    </element>
+</database>
