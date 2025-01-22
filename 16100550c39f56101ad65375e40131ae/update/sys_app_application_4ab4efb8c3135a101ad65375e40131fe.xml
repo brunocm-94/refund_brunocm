@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description>Refund app</description>
+        <device_type>browser</device_type>
+        <hint>Refund app</hint>
+        <name/>
+        <order>100</order>
+        <roles>x_1593177_reembo_0.gerente_de_rh,x_1593177_reembo_0.resolvedor_de_rh</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-22 14:38:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4ab4efb8c3135a101ad65375e40131fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reembolso - BrunoCM</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Reembolso - BrunoCM" source="x_1593177_reembo_0">16100550c39f56101ad65375e40131ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso - BrunoCM">16100550c39f56101ad65375e40131ae</sys_scope>
+        <sys_update_name>sys_app_application_4ab4efb8c3135a101ad65375e40131fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-22 14:38:31</sys_updated_on>
+        <title>Reembolso - BrunoCM</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-22 13:34:41</sys_created_on>
+        <sys_id>cf75d7b4c3df1a101ad65375e401316a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1593177_reembo_0.resolvedor_de_rh</sys_name>
+        <sys_package display_value="Reembolso - BrunoCM" source="x_1593177_reembo_0">16100550c39f56101ad65375e40131ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso - BrunoCM">16100550c39f56101ad65375e40131ae</sys_scope>
+        <sys_security_acl display_value="">b9755fb4c3df1a101ad65375e401311b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_cf75d7b4c3df1a101ad65375e401316a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-22 13:34:41</sys_updated_on>
+        <sys_user_role display_value="x_1593177_reembo_0.resolvedor_de_rh" name="x_1593177_reembo_0.resolvedor_de_rh">ea100550c39f56101ad65375e40131eb</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Reembolso - BrunoCM">16100550c39f56101ad65375e40131ae</application>
+        <file_path/>
+        <instance_id>aedcc1e2db5a3d9002022a591396193c</instance_id>
+        <instance_name>dev206749</instance_name>
+        <name>sys_security_acl_role_cf75d7b4c3df1a101ad65375e401316a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-22 13:34:41</sys_created_on><sys_id>cf75d7b4c3df1a101ad65375e401316a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.x_1593177_reembo_0.resolvedor_de_rh</sys_name><sys_package display_value="Reembolso - BrunoCM" source="x_1593177_reembo_0">16100550c39f56101ad65375e40131ae</sys_package><sys_policy/><sys_scope display_value="Reembolso - BrunoCM">16100550c39f56101ad65375e40131ae</sys_scope><sys_security_acl display_value="">b9755fb4c3df1a101ad65375e401311b</sys_security_acl><sys_update_name>sys_security_acl_role_cf75d7b4c3df1a101ad65375e401316a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-22 13:34:41</sys_updated_on><sys_user_role display_value="x_1593177_reembo_0.resolvedor_de_rh" name="x_1593177_reembo_0.resolvedor_de_rh">ea100550c39f56101ad65375e40131eb</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1785443362</payload_hash>
+        <record_name>.x_1593177_reembo_0.resolvedor_de_rh</record_name>
+        <reverted_from/>
+        <source>e1540514c39f56101ad65375e4013106</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-22 13:34:41</sys_created_on>
+        <sys_id>8056dfb4c3df1a101ad65375e4013191</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1948e38e80f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-22 13:34:41</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>8456dfb4bfdf1a100bb35bb78ff52a90</update_guid>
+        <update_guid_history>8456dfb4bfdf1a100bb35bb78ff52a90:1785443362</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value=".x_1593177_reembo_0.resolvedor_de_rh">02f3af78c3135a101ad65375e401314f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-22 14:34:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>3f98d8d6755d4c408a02dea3a11581a4</sys_id>
+        <sys_metadata>cf75d7b4c3df1a101ad65375e401316a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1593177_reembo_0.resolvedor_de_rh</sys_name>
+        <sys_package display_value="Reembolso - BrunoCM" source="x_1593177_reembo_0">16100550c39f56101ad65375e40131ae</sys_package>
+        <sys_parent display_value="x_1593177_reembo_0_refund">b9755fb4c3df1a101ad65375e401311b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso - BrunoCM">16100550c39f56101ad65375e40131ae</sys_scope>
+        <sys_scope_delete display_value="">0e816e121a974c55828dcc58b0e7bb91</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_cf75d7b4c3df1a101ad65375e401316a</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_cf75d7b4c3df1a101ad65375e401316a">8056dfb4c3df1a101ad65375e4013191</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-22 14:34:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
