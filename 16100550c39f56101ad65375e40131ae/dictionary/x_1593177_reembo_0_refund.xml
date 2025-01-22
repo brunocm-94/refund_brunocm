@@ -2,7 +2,8 @@
     <element db_object_id="71e9815cc39f56101ad65375e401311c" extends="task" label="Refund" max_length="40" name="x_1593177_reembo_0_refund" type="collection">
         <element label="Refund Category" max_length="32" name="refund_category" reference="x_1593177_reembo_0_refund_category" type="reference"/>
         <element label="Payment Date" max_length="40" name="payment_date" type="glide_date_time"/>
-        <element default="0" label="BRL Value" max_length="20" name="brl_value" type="currency"/>
-        <element label="USD Value" max_length="38" name="usd_value" type="currency"/>
+        <element default="0.00" label="BRL Value" max_length="20" name="brl_value" type="currency"/>
+        <element label="Reproval reason" max_length="4000" name="reproval_reason" type="string"/>
+        <element default="0.00" label="USD Value" max_length="38" name="usd_value" type="currency"/>
     </element>
 </database>

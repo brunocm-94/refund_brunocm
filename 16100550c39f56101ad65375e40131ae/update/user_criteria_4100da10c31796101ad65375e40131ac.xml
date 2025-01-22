@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="user_criteria">
+    <user_criteria action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <company/>
+        <department/>
+        <group name="Reembolso Requesters">70ef2d98c35396101ad65375e40131af</group>
+        <location/>
+        <match_all>false</match_all>
+        <name>Refund Requesters</name>
+        <role name="x_1593177_reembo_0.solicitante_de_reembolso">e2104550c39f56101ad65375e4013105</role>
+        <script><![CDATA[/** Scripted User Criteria is not cached, and evaluated everytime, so performance is dependent on the script.
+* Populate `answer` with true/false or evaluate to true/false
+* The script is evaluated in the scope the user criteria is defined
+* Don't use `current` in the script or populate the variable
+* Don't use `gs.getUser()` or  `gs.getUserID()`, 
+* instead use `user_id` which contains the user sys_id against whom the evaluation is happening.
+*/]]></script>
+        <short_description/>
+        <sys_class_name>user_criteria</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-20 19:10:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4100da10c31796101ad65375e40131ac</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Refund Requesters</sys_name>
+        <sys_package display_value="Reembolso - BrunoCM" source="x_1593177_reembo_0">16100550c39f56101ad65375e40131ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso - BrunoCM">16100550c39f56101ad65375e40131ae</sys_scope>
+        <sys_update_name>user_criteria_4100da10c31796101ad65375e40131ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-20 19:11:56</sys_updated_on>
+        <user/>
+    </user_criteria>
+    <sys_translated_text action="delete_multiple" query="documentkey=4100da10c31796101ad65375e40131ac"/>
+</record_update>

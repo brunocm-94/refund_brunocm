@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="catalog_script_client">
+    <catalog_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_catalog>true</applies_catalog>
+        <applies_extended>false</applies_extended>
+        <applies_req_item>false</applies_req_item>
+        <applies_sc_task>false</applies_sc_task>
+        <applies_target_record>false</applies_target_record>
+        <applies_to>item</applies_to>
+        <cat_item display_value="Refund">5a7d8edcc3d396101ad65375e401311f</cat_item>
+        <cat_variable>IO:89a0d214c31796101ad65375e401319d</cat_variable>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Validate Refund Date</name>
+        <order/>
+        <published_ref/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading) {
+    if (isLoading || newValue == '') {
+        return;
+    }
+    var dateParts = newValue.split("/");
+    var day = parseInt(dateParts[0]);
+    var month = parseInt(dateParts[1]);
+    var year = parseInt(dateParts[2]);
+
+    var inputDateTime = new Date(year, month - 1, day);
+    var currentDate = new Date();
+    var differenceInMilliseconds = currentDate - inputDateTime;
+    var millisecondsIn24Hours = 24 * 60 * 60 * 1000;
+
+    if (differenceInMilliseconds < millisecondsIn24Hours) {
+        g_form.addErrorMessage("Error: The payment date must be at least 24 hours before the current date.");
+		g_form.clearValue("payment_date");
+    }
+}]]></script>
+        <sys_class_name>catalog_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-21 12:57:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7a128ee0c397d6101ad65375e401311c</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Validate Refund Date</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Reembolso - BrunoCM" source="x_1593177_reembo_0">16100550c39f56101ad65375e40131ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso - BrunoCM">16100550c39f56101ad65375e40131ae</sys_scope>
+        <sys_update_name>catalog_script_client_7a128ee0c397d6101ad65375e401311c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-21 18:29:51</sys_updated_on>
+        <table/>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <va_supported>true</va_supported>
+        <variable_set/>
+        <view/>
+    </catalog_script_client>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>7a128ee0c397d6101ad65375e401311c</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-21 12:57:12</sys_created_on>
+        <sys_id>91248ae0c397d6101ad65375e40131d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-21 12:57:12</sys_updated_on>
+        <table>catalog_script_client</table>
+        <use_es_latest>false</use_es_latest>
+    </sys_es_latest_script>
+</record_update>

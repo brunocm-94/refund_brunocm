@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>payment_date</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-21 13:09:24</sys_created_on>
+        <sys_id>0cf68a68c397d6101ad65375e4013162</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>payment_date</sys_name>
+        <sys_package display_value="Reembolso - BrunoCM" source="x_1593177_reembo_0">16100550c39f56101ad65375e40131ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso - BrunoCM">16100550c39f56101ad65375e40131ae</sys_scope>
+        <sys_update_name>sys_ui_policy_action_0cf68a68c397d6101ad65375e4013162</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-21 13:09:24</sys_updated_on>
+        <table>x_1593177_reembo_0_refund</table>
+        <ui_policy display_value="Table Refund initial mandatory and readonly and hidden fields">7e564268c397d6101ad65375e40131a7</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=0cf68a68c397d6101ad65375e4013162"/>
+</record_update>

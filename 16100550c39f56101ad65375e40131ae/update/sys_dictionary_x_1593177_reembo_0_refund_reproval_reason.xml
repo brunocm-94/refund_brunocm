@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="usd_value" table="x_1593177_reembo_0_refund">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="reproval_reason" table="x_1593177_reembo_0_refund">
         <active>true</active>
         <array>false</array>
         <attributes/>
         <audit>false</audit>
-        <calculation/>
-        <choice>0</choice>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>USD Value</column_label>
+        <column_label>Reproval reason</column_label>
         <comments/>
         <create_roles/>
-        <default_value>0.00</default_value>
+        <default_value/>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -21,15 +26,15 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>usd_value</element>
+        <element>reproval_reason</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Currency">currency</internal_type>
+        <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>38</max_length>
+        <max_length>4000</max_length>
         <name>x_1593177_reembo_0_refund</name>
         <next_element/>
         <primary>false</primary>
@@ -46,14 +51,14 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-01-20 14:07:43</sys_created_on>
-        <sys_name>USD Value</sys_name>
+        <sys_created_on>2025-01-21 14:01:28</sys_created_on>
+        <sys_name>Reproval reason</sys_name>
         <sys_package display_value="Reembolso - BrunoCM" source="x_1593177_reembo_0">16100550c39f56101ad65375e40131ae</sys_package>
         <sys_policy/>
         <sys_scope display_value="Reembolso - BrunoCM">16100550c39f56101ad65375e40131ae</sys_scope>
-        <sys_update_name>sys_dictionary_x_1593177_reembo_0_refund_usd_value</sys_update_name>
+        <sys_update_name>sys_dictionary_x_1593177_reembo_0_refund_reproval_reason</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-01-20 19:50:43</sys_updated_on>
+        <sys_updated_on>2025-01-21 14:01:28</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

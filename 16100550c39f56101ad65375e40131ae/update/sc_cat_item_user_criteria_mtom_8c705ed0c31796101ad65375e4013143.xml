@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Refund">5a7d8edcc3d396101ad65375e401311f</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-20 19:12:26</sys_created_on>
+        <sys_id>8c705ed0c31796101ad65375e4013143</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Refund.Refund Requesters</sys_name>
+        <sys_package display_value="Reembolso - BrunoCM" source="x_1593177_reembo_0">16100550c39f56101ad65375e40131ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso - BrunoCM">16100550c39f56101ad65375e40131ae</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_8c705ed0c31796101ad65375e4013143</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-20 19:12:26</sys_updated_on>
+        <user_criteria display_value="Refund Requesters">4100da10c31796101ad65375e40131ac</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_regex">
+    <question_regex action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <name>Currency</name>
+        <regex>^\d+(\.\d{1,2})?$</regex>
+        <regex_flag/>
+        <sys_class_name>question_regex</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-20 19:39:25</sys_created_on>
+        <sys_id>b1c55e98c31796101ad65375e4013184</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Currency</sys_name>
+        <sys_package display_value="Reembolso - BrunoCM" source="x_1593177_reembo_0">16100550c39f56101ad65375e40131ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso - BrunoCM">16100550c39f56101ad65375e40131ae</sys_scope>
+        <sys_update_name>question_regex_b1c55e98c31796101ad65375e4013184</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-20 19:39:25</sys_updated_on>
+        <validation_message>Value should be decimal positive with .</validation_message>
+    </question_regex>
+    <sys_translated_text action="delete_multiple" query="documentkey=b1c55e98c31796101ad65375e4013184"/>
+</record_update>
