@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_1593177_reembo_0_refund" version="2" view="RPTb8247489c3975a101ad65375e40131d6">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_1593177_reembo_0_refund" element="NULL" name="x_1593177_reembo_0_refund" parent="NULL" relationship="NULL" sys_domain="global" view="89247cc9c3975a101ad65375e401319a">7c44300dc3975a101ad65375e401312f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-22 20:25:09</sys_created_on>
+            <sys_id>b844300dc3975a101ad65375e4013130</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-22 20:25:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>refund_category</element>
+            <list_id display_value="x_1593177_reembo_0_refund" element="NULL" name="x_1593177_reembo_0_refund" parent="NULL" relationship="NULL" sys_domain="global" view="89247cc9c3975a101ad65375e401319a">7c44300dc3975a101ad65375e401312f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-22 20:25:09</sys_created_on>
+            <sys_id>bc44300dc3975a101ad65375e4013130</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-22 20:25:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_1593177_reembo_0_refund" element="NULL" name="x_1593177_reembo_0_refund" parent="NULL" relationship="NULL" sys_domain="global" view="89247cc9c3975a101ad65375e401319a">7c44300dc3975a101ad65375e401312f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-22 20:25:09</sys_created_on>
+            <sys_id>b044300dc3975a101ad65375e4013131</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-22 20:25:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>opened_by</element>
+            <list_id display_value="x_1593177_reembo_0_refund" element="NULL" name="x_1593177_reembo_0_refund" parent="NULL" relationship="NULL" sys_domain="global" view="89247cc9c3975a101ad65375e401319a">7c44300dc3975a101ad65375e401312f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-22 20:25:09</sys_created_on>
+            <sys_id>b444300dc3975a101ad65375e4013131</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-22 20:25:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1593177_reembo_0_refund</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-22 20:25:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7c44300dc3975a101ad65375e401312f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1593177_reembo_0_refund</sys_name>
+            <sys_package display_value="Reembolso - BrunoCM" source="x_1593177_reembo_0">16100550c39f56101ad65375e40131ae</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Reembolso - BrunoCM">16100550c39f56101ad65375e40131ae</sys_scope>
+            <sys_update_name>sys_ui_list_x_1593177_reembo_0_refund_RPTb8247489c3975a101ad65375e40131d6</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-22 20:25:09</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rptb8247489c3975a101ad65375e40131d6" name="RPTb8247489c3975a101ad65375e40131d6">89247cc9c3975a101ad65375e401319a</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

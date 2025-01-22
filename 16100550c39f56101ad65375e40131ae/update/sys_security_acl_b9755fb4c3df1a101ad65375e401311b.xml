@@ -5,8 +5,8 @@
         <advanced>true</advanced>
         <applies_to/>
         <condition/>
-        <decision_type>deny</decision_type>
-        <description>Deny read for records in x_1593177_reembo_0_refund, unless the ACL script returns true.</description>
+        <decision_type>allow</decision_type>
+        <description>Allow read for records in x_1593177_reembo_0_refund, for users with roles (x_1593177_reembo_0.resolvedor_de_rh, x_1593177_reembo_0.gerente_de_rh), and if the ACL script returns true.</description>
         <local_or_existing>Local</local_or_existing>
         <name>x_1593177_reembo_0_refund</name>
         <operation display_value="read">read</operation>
@@ -19,14 +19,14 @@ if (gs.getUser().isMemberOf(current.getValue("assignment_group")) || gs.getUser(
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-01-22 13:34:41</sys_created_on>
         <sys_id>b9755fb4c3df1a101ad65375e401311b</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>x_1593177_reembo_0_refund</sys_name>
         <sys_package display_value="Reembolso - BrunoCM" source="x_1593177_reembo_0">16100550c39f56101ad65375e40131ae</sys_package>
         <sys_policy/>
         <sys_scope display_value="Reembolso - BrunoCM">16100550c39f56101ad65375e40131ae</sys_scope>
         <sys_update_name>sys_security_acl_b9755fb4c3df1a101ad65375e401311b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-01-22 14:34:21</sys_updated_on>
+        <sys_updated_on>2025-01-22 19:48:30</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
     <sys_es_latest_script action="INSERT_OR_UPDATE">
