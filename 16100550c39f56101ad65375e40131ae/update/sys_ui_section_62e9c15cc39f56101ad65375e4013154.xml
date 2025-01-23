@@ -4,13 +4,13 @@
             <element>process_flow.xml</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-22 14:22:37</sys_created_on>
-            <sys_id>9e4167b4c3135a101ad65375e40131ff</sys_id>
+            <sys_created_on>2025-01-23 15:39:21</sys_created_on>
+            <sys_id>487c7c55c39b9a101ad65375e4013109</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter display_value="Process Flow">f5cfd734c3135a101ad65375e4013133</sys_ui_formatter>
             <sys_ui_section caption="NULL" display_value="" name="x_1593177_reembo_0_refund" sys_domain="global" view="Default view">62e9c15cc39f56101ad65375e4013154</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-22 14:22:37</sys_updated_on>
+            <sys_updated_on>2025-01-23 15:39:21</sys_updated_on>
             <sys_user/>
             <type>formatter</type>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>number</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-22 14:22:38</sys_created_on>
-            <sys_id>9e41a7b4c3135a101ad65375e4013100</sys_id>
+            <sys_created_on>2025-01-23 15:39:21</sys_created_on>
+            <sys_id>c07c7c55c39b9a101ad65375e401310a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1593177_reembo_0_refund" sys_domain="global" view="Default view">62e9c15cc39f56101ad65375e4013154</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-22 14:22:38</sys_updated_on>
+            <sys_updated_on>2025-01-23 15:39:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>.begin_split</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-22 14:22:38</sys_created_on>
-            <sys_id>1641a7b4c3135a101ad65375e4013101</sys_id>
+            <sys_created_on>2025-01-23 15:39:21</sys_created_on>
+            <sys_id>487c7c55c39b9a101ad65375e401310a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1593177_reembo_0_refund" sys_domain="global" view="Default view">62e9c15cc39f56101ad65375e4013154</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-22 14:22:38</sys_updated_on>
+            <sys_updated_on>2025-01-23 15:39:21</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>payment_date</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-22 14:22:38</sys_created_on>
-            <sys_id>9a41a7b4c3135a101ad65375e4013101</sys_id>
+            <sys_created_on>2025-01-23 15:39:21</sys_created_on>
+            <sys_id>cc7c7c55c39b9a101ad65375e401310a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1593177_reembo_0_refund" sys_domain="global" view="Default view">62e9c15cc39f56101ad65375e4013154</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-22 14:22:38</sys_updated_on>
+            <sys_updated_on>2025-01-23 15:39:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>refund_category</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-22 14:22:38</sys_created_on>
-            <sys_id>1241a7b4c3135a101ad65375e4013102</sys_id>
+            <sys_created_on>2025-01-23 15:39:21</sys_created_on>
+            <sys_id>447c7c55c39b9a101ad65375e401310b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1593177_reembo_0_refund" sys_domain="global" view="Default view">62e9c15cc39f56101ad65375e4013154</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-22 14:22:38</sys_updated_on>
+            <sys_updated_on>2025-01-23 15:39:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>.split</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-22 14:22:38</sys_created_on>
-            <sys_id>9641a7b4c3135a101ad65375e4013102</sys_id>
+            <sys_created_on>2025-01-23 15:39:21</sys_created_on>
+            <sys_id>c87c7c55c39b9a101ad65375e401310b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1593177_reembo_0_refund" sys_domain="global" view="Default view">62e9c15cc39f56101ad65375e4013154</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-22 14:22:38</sys_updated_on>
+            <sys_updated_on>2025-01-23 15:39:21</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>brl_value</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-22 14:22:38</sys_created_on>
-            <sys_id>1e41a7b4c3135a101ad65375e4013102</sys_id>
+            <sys_created_on>2025-01-23 15:39:21</sys_created_on>
+            <sys_id>407c7c55c39b9a101ad65375e401310c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1593177_reembo_0_refund" sys_domain="global" view="Default view">62e9c15cc39f56101ad65375e4013154</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-22 14:22:38</sys_updated_on>
+            <sys_updated_on>2025-01-23 15:39:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>usd_value</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-22 14:22:38</sys_created_on>
-            <sys_id>9241a7b4c3135a101ad65375e4013103</sys_id>
+            <sys_created_on>2025-01-23 15:39:21</sys_created_on>
+            <sys_id>c47c7c55c39b9a101ad65375e401310c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1593177_reembo_0_refund" sys_domain="global" view="Default view">62e9c15cc39f56101ad65375e4013154</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-22 14:22:38</sys_updated_on>
+            <sys_updated_on>2025-01-23 15:39:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>.end_split</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-22 14:22:38</sys_created_on>
-            <sys_id>1a41a7b4c3135a101ad65375e4013103</sys_id>
+            <sys_created_on>2025-01-23 15:39:21</sys_created_on>
+            <sys_id>4c7c7c55c39b9a101ad65375e401310c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1593177_reembo_0_refund" sys_domain="global" view="Default view">62e9c15cc39f56101ad65375e4013154</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-22 14:22:38</sys_updated_on>
+            <sys_updated_on>2025-01-23 15:39:21</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -130,27 +130,13 @@
             <element>description</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-22 14:22:38</sys_created_on>
-            <sys_id>9e41a7b4c3135a101ad65375e4013103</sys_id>
+            <sys_created_on>2025-01-23 15:39:21</sys_created_on>
+            <sys_id>c07c7c55c39b9a101ad65375e401310d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1593177_reembo_0_refund" sys_domain="global" view="Default view">62e9c15cc39f56101ad65375e4013154</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-22 14:22:38</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>reproval_reason</element>
-            <position>10</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-22 14:22:38</sys_created_on>
-            <sys_id>1641a7b4c3135a101ad65375e4013104</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1593177_reembo_0_refund" sys_domain="global" view="Default view">62e9c15cc39f56101ad65375e4013154</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-22 14:22:38</sys_updated_on>
+            <sys_updated_on>2025-01-23 15:39:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

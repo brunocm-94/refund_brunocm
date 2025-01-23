@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="BRL to USD Conversion Status" section_id="fb6c3c55c39b9a101ad65375e4013186" sys_domain="global" table="x_1593177_reembo_0_refund" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>conversion_state</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-23 15:39:21</sys_created_on>
+            <sys_id>0c7c7c55c39b9a101ad65375e4013112</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="BRL to USD Conversion Status" display_value="BRL to USD Conversion Status" name="x_1593177_reembo_0_refund" sys_domain="global" view="Default view">fb6c3c55c39b9a101ad65375e4013186</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-23 15:39:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-23 15:39:21</sys_created_on>
+            <sys_id>807c7c55c39b9a101ad65375e4013113</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="BRL to USD Conversion Status" display_value="BRL to USD Conversion Status" name="x_1593177_reembo_0_refund" sys_domain="global" view="Default view">fb6c3c55c39b9a101ad65375e4013186</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-23 15:39:21</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>conversion_error_message</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-23 15:39:21</sys_created_on>
+            <sys_id>087c7c55c39b9a101ad65375e4013113</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="BRL to USD Conversion Status" display_value="BRL to USD Conversion Status" name="x_1593177_reembo_0_refund" sys_domain="global" view="Default view">fb6c3c55c39b9a101ad65375e4013186</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-23 15:39:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>BRL to USD Conversion Status</caption>
+            <header>false</header>
+            <name>x_1593177_reembo_0_refund</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-23 15:39:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fb6c3c55c39b9a101ad65375e4013186</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1593177_reembo_0_refund</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Reembolso - BrunoCM" source="x_1593177_reembo_0">16100550c39f56101ad65375e40131ae</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Reembolso - BrunoCM">16100550c39f56101ad65375e40131ae</sys_scope>
+            <sys_update_name>sys_ui_section_fb6c3c55c39b9a101ad65375e4013186</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-23 15:39:20</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
