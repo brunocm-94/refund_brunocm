@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_action_role">
+    <sys_ui_action_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_ui_action_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-23 19:44:24</sys_created_on>
+        <sys_id>dc743191c39f9a101ad65375e40131dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reconvert BRL to USD.x_1593177_reembo_0.gerente_de_rh</sys_name>
+        <sys_package display_value="Reembolso - BrunoCM" source="x_1593177_reembo_0">16100550c39f56101ad65375e40131ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso - BrunoCM">16100550c39f56101ad65375e40131ae</sys_scope>
+        <sys_ui_action display_value="Reconvert BRL to USD">fe533d19c39f9a101ad65375e40131b7</sys_ui_action>
+        <sys_update_name>sys_ui_action_role_dc743191c39f9a101ad65375e40131dd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-23 19:44:24</sys_updated_on>
+        <sys_user_role display_value="x_1593177_reembo_0.gerente_de_rh" name="x_1593177_reembo_0.gerente_de_rh">2a104550c39f56101ad65375e4013100</sys_user_role>
+    </sys_ui_action_role>
+</record_update>
